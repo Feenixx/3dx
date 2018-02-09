@@ -4,7 +4,7 @@ These rooms are made by [**EleonoreTFR**]( http://3dxforum.com/index.php?/user/9
 
 You can use, modify and share the rooms, but you can't pretend that you are their creator.
 
-If you share the rooms, you have to specify their given names in title:
+If you share the rooms, you have to specify their given names in title except if you put some important modifications to them:
 - for the darkroom: **SKYWORLD**
 - for the sunnyroom: **SUNNYWORLD**
 
