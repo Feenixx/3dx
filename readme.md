@@ -10,7 +10,8 @@ If you share the rooms, you have to specify their given names in title:
 
 You're free to use the room as you want: so you can share SKYWORLD as a C&F or as a NOMEN and so on.
 
-** External creations: **
+**External creations:**
+
 - The hammock made by **Chilles** [from forum](http://3dxforum.com/index.php?/topic/5980-workshop/#entry261280)
 - The pavilion made by **Menon**: [from forum](http://3dxforum.com/index.php?/topic/5980-workshop/page-3#entry265468)
 - Kinky furnitures made by **Veronique** [from forum](http://3dxforum.com/index.php?/topic/5980-workshop/page-2#entry262110)
